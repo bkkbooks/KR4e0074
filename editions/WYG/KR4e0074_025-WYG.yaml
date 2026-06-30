@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR4e0074/WYG/v1/juan/25
+seq: 25
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 遜志齋集巻二十四
+  hash: sha256:257387ae3eff279438213efa326b1207dc5a2da4161a1f96a66bb1bdd5295f49
+metadata:
+  title: 遜志齋集
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-09-11 16:34:02.876673'
+  source:
+    repository: kanripo
+    path: KR4e0074/KR4e0074_025.txt
+hash: sha256:6ed75972233cc69a0404ee389de3ce8742cc0f3c944ede009b8289ba16cd961f
