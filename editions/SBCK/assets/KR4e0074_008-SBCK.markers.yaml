@@ -994,6 +994,7 @@ markers:
   - {type: indent, offset: 3852, content: 　, id: KR4e0074_SBCK_008-bkkind57}
   - {type: indent, offset: 3856, content: 　, id: KR4e0074_SBCK_008-bkkind58}
   - {type: punctuation, offset: 3859, content: (, id: KR4e0074_SBCK_008-bkkpn1}
+  - {type: voice, offset: 3859, length: 3, name: note, id: n1}
   - {type: punctuation, offset: 3862, content: ), id: KR4e0074_SBCK_008-bkkpn2}
   - {type: 'kr:newline', offset: 3862, content: '
 
@@ -1131,6 +1132,7 @@ markers:
       ', id: KR4e0074_SBCK_008-bkkkrnewl262}
   - {type: line-break, offset: 4347, content: '', id: KR4e0074_SBCK_008-12b10}
   - {type: punctuation, offset: 4358, content: (, id: KR4e0074_SBCK_008-bkkpn3}
+  - {type: voice, offset: 4358, length: 3, name: note, id: n2}
   - {type: punctuation, offset: 4361, content: ), id: KR4e0074_SBCK_008-bkkpn4}
   - {type: 'kr:newline', offset: 4361, content: '
 
@@ -1318,6 +1320,7 @@ markers:
       ', id: KR4e0074_SBCK_008-bkkkrnewl304}
   - {type: line-break, offset: 5025, content: '', id: KR4e0074_SBCK_008-14b08}
   - {type: punctuation, offset: 5030, content: (, id: KR4e0074_SBCK_008-bkkpn5}
+  - {type: voice, offset: 5030, length: 3, name: note, id: n3}
   - {type: punctuation, offset: 5033, content: ), id: KR4e0074_SBCK_008-bkkpn6}
   - {type: 'kr:newline', offset: 5033, content: '
 
@@ -1567,6 +1570,7 @@ markers:
       ', id: KR4e0074_SBCK_008-bkkkrnewl365}
   - {type: line-break, offset: 6078, content: '', id: KR4e0074_SBCK_008-17b03}
   - {type: punctuation, offset: 6086, content: (, id: KR4e0074_SBCK_008-bkkpn7}
+  - {type: voice, offset: 6086, length: 4, name: note, id: n4}
   - {type: punctuation, offset: 6088, content: /, id: KR4e0074_SBCK_008-bkkpn8}
   - {type: punctuation, offset: 6090, content: ), id: KR4e0074_SBCK_008-bkkpn9}
   - {type: 'kr:newline', offset: 6100, content: '
@@ -2045,4 +2049,4 @@ markers:
 
       ', id: KR4e0074_SBCK_008-bkkkrnewl482}
   back: []
-hash: sha256:09dfd1ef872c869ffb4bc2d99a511981aff95e6c01f791acba95b56a98eac9a4
+hash: sha256:2145481224d3a2de274bcbf99c50b79ff348743f367b7ec3acaf46da56043943

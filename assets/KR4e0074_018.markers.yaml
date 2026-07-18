@@ -1045,6 +1045,7 @@ markers:
   - {type: variant, offset: 2796, length: 1, content: 爲, WYG: 為}
   - {type: substitution, offset: 2796, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: punctuation, offset: 2801, content: (, id: KR4e0074_krp_018-bkkpn1}
+  - {type: voice, offset: 2801, length: 5, name: note, id: n1}
   - {type: punctuation, offset: 2804, content: /, id: KR4e0074_krp_018-bkkpn2}
   - {type: punctuation, offset: 2806, content: ), id: KR4e0074_krp_018-bkkpn3}
   - {type: 'kr:newline', offset: 2809, content: '
@@ -3657,6 +3658,7 @@ markers:
   - {type: line-break, offset: 10335, content: '', id: KR4e0074_SBCK_018-29a07}
   - {type: indent, offset: 10335, content: 　　, id: KR4e0074_krp_018-bkkind56}
   - {type: punctuation, offset: 10342, content: (, id: KR4e0074_krp_018-bkkpn4}
+  - {type: voice, offset: 10342, length: 5, name: note, id: n2}
   - {type: punctuation, offset: 10347, content: ), id: KR4e0074_krp_018-bkkpn5}
   - {type: 'kr:newline', offset: 10347, content: '
 
@@ -4636,9 +4638,10 @@ markers:
   - {type: punctuation, offset: 12984, content: (, id: KR4e0074_krp_018-bkkpn6}
   - {type: variant, offset: 12984, length: 1, content: 終, WYG: 欽定四庫全書遜志齋集巻十九明方孝孺撰贊}
   - {type: page-break, offset: 12984, content: '', id: KR4e0074_WYG_019-1a, image: WYG1235/WYG1235-0545a.png}
+  - {type: voice, offset: 12984, length: 1, name: note, id: n3}
   - {type: punctuation, offset: 12985, content: ), id: KR4e0074_krp_018-bkkpn7}
   - {type: 'kr:newline', offset: 12985, content: '
 
       ', id: KR4e0074_krp_018-bkkkrnewl784}
   back: []
-hash: sha256:db3f8d1a4fbfca6f0ac2369bd9c7e6985052efefe6b40fa643b1de4511265b4d
+hash: sha256:e3dba3022788b6676ca15da1daea13d2f8baca34d74e03e8d959a57a760d4b9f

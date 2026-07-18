@@ -5242,9 +5242,10 @@ markers:
   - {type: variant, offset: 16460, length: 2, content: 卷之, WYG: 巻}
   - {type: punctuation, offset: 16464, content: (, id: KR4e0074_krp_012-bkkpn1}
   - {type: variant, offset: 16464, length: 1, content: 終, WYG: ''}
+  - {type: voice, offset: 16464, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 16465, content: ), id: KR4e0074_krp_012-bkkpn2}
   - {type: 'kr:newline', offset: 16465, content: '
 
       ', id: KR4e0074_krp_012-bkkkrnewl940}
   back: []
-hash: sha256:d6b486ebfae392d2bdba17f52785b1ad40603383b45f83a5d87c6deeb62ad682
+hash: sha256:28cc2b6a0342ff57a530e2b8e42f43a983a84d00cd48a8cd9be7dc306328570b

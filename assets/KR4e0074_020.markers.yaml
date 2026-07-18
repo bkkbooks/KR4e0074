@@ -3447,6 +3447,7 @@ markers:
   - {type: line-break, offset: 9354, content: '', id: KR4e0074_SBCK_020-25b05}
   - {type: indent, offset: 9354, content: 　　, id: KR4e0074_krp_020-bkkind35}
   - {type: punctuation, offset: 9359, content: (, id: KR4e0074_krp_020-bkkpn1}
+  - {type: voice, offset: 9359, length: 4, name: note, id: n1}
   - {type: punctuation, offset: 9363, content: ), id: KR4e0074_krp_020-bkkpn2}
   - {type: 'kr:newline', offset: 9363, content: '
 
@@ -3504,6 +3505,7 @@ markers:
   - {type: indent, offset: 9507, content: 　　, id: KR4e0074_krp_020-bkkind36}
   - {type: variant, offset: 9509, length: 1, content: 葛, SBCK: 􅁑}
   - {type: punctuation, offset: 9513, content: (, id: KR4e0074_krp_020-bkkpn3}
+  - {type: voice, offset: 9513, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 9515, content: ), id: KR4e0074_krp_020-bkkpn4}
   - {type: 'kr:newline', offset: 9515, content: '
 
@@ -4131,6 +4133,7 @@ markers:
   - {type: variant, offset: 11340, length: 1, content: 爲, WYG: 為}
   - {type: substitution, offset: 11340, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: punctuation, offset: 11341, content: (, id: KR4e0074_krp_020-bkkpn5}
+  - {type: voice, offset: 11341, length: 3, name: note, id: n3}
   - {type: variant, offset: 11342, length: 1, content: 脫, WYG: 脱}
   - {type: variant, offset: 11343, length: 1, content: 悞, WYG: 誤}
   - {type: substitution, offset: 11343, original: 悞, replacement: 誤, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20031}}
@@ -4768,4 +4771,4 @@ markers:
 
       ', id: KR4e0074_krp_020-bkkkrnewl759}
   back: []
-hash: sha256:740460f91a0449c249d3a9ddb291a253fc630d34b445ffd59950056d329d8b74
+hash: sha256:ee530027cb4a51c97161fa34b3ac7bdb40757f54dbb4d6e24c9e3df76c1d7b9d

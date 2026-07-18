@@ -1456,6 +1456,7 @@ markers:
   - {type: variant, offset: 4119, length: 1, content: 爲, WYG: 為}
   - {type: substitution, offset: 4119, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: punctuation, offset: 4126, content: (, id: KR4e0074_krp_015-bkkpn1}
+  - {type: voice, offset: 4126, length: 4, name: note, id: n1}
   - {type: punctuation, offset: 4128, content: /, id: KR4e0074_krp_015-bkkpn2}
   - {type: punctuation, offset: 4130, content: ), id: KR4e0074_krp_015-bkkpn3}
   - {type: 'kr:newline', offset: 4130, content: '
@@ -3574,4 +3575,4 @@ markers:
   - {type: variant, offset: 9894, length: 0, content: '', WYG: 欽定四庫全書遜志齋集巻十六明方孝孺撰}
   - {type: page-break, offset: 9894, content: '', id: KR4e0074_WYG_016-1a, image: WYG1235/WYG1235-0458a.png}
   back: []
-hash: sha256:330230422659bf1a39b42540347a0eadf07a0147d081d20891708d62ced8615a
+hash: sha256:283e6ef99d1ecd8b878c6cf888675dd3a8297269efb419381caeaca8454b2431
